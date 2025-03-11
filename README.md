@@ -6,6 +6,6 @@
 
 2- streamlit run app.py
 
-![Streamlit](Screenshots/Ekran Resmi 2025-03-11 22.11.09.png)
+![Streamlit](Screenshot1.png)
 
   
