@@ -6,6 +6,6 @@
 
 2- streamlit run app.py
 
-![Streamlit](Screenshot1.png)
+![Streamlit](Screenshot1)
 
   
