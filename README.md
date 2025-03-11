@@ -6,4 +6,6 @@
 
 2- streamlit run app.py
 
+![Streamlit](Screenshots)
+
   
