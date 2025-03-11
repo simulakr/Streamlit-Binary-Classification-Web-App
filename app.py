@@ -17,7 +17,7 @@ st.sidebar.markdown("Are your mushrooms edible or poisonous? 🍄")
 
 @st.cache_data
 def load_data():
-    data = pd.read_csv("mushrooms.csv")  # Dosyanın tam yolunu ekleyebilirsin
+    data = pd.read_csv("mushrooms.csv") 
     label = LabelEncoder()
     for col in data.columns:
         data[col] = label.fit_transform(data[col])
